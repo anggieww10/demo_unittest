@@ -4,7 +4,7 @@ A hands-on tutorial for learning unit testing and debugging with a discount calc
 
 
 # How to Use
-npm install
+npm install &&
 npm install --save-dev jest
 ## Run all tests
 npm test
